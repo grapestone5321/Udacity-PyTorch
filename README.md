@@ -67,5 +67,9 @@ In this lesson, we'll walk through a tutorial showing how to deploy PyTorch mode
 ## pytorch.org
 https://pytorch.org/
 
+## WELCOME TO PYTORCH TUTORIALS
+https://pytorch.org/tutorials/
+
+
 
 -------

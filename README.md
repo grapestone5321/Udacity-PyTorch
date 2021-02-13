@@ -87,6 +87,11 @@ In this lesson, we'll walk through a tutorial showing how to deploy PyTorch mode
 ## pytorch.org
 https://pytorch.org/
 
+## GET STARTED
+https://pytorch.org/get-started/locally/
+
+Select preferences and run the command to install PyTorch locally, or get started quickly with one of the supported cloud platforms.
+
 ## WELCOME TO PYTORCH TUTORIALS
 https://pytorch.org/tutorials/
 

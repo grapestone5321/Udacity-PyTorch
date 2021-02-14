@@ -93,7 +93,77 @@ This repository contains material related to Udacity's Deep Learning Nanodegree 
 
 There are also notebooks used as projects for the Nanodegree program. In the program itself, the projects are reviewed by real people (Udacity reviewers), but the starting code is available here, as well.
 
-## Table Of Contents
+
+### attention
+Attention basics
+
+### autoencoder
+data handling
+
+### batch-norm
+fix typo
+
+### convolutional-neural-networks
+copy edit
+
+### cycle-gan
+copy edits and matrix shape for char rnn
+
+### dcgan-svhn
+DCGAN for SVHN images
+
+### gan-mnist
+mnist GAN notebooks
+
+### intro-neural-networks
+alt solution to one hot encoding
+
+### intro-to-pytorch
+Update Part 3 - Training Neural Networks (Solution).ipynb
+
+### keras
+keras exercises and examples
+
+### project-bikesharing
+Fixes Issue #136
+
+### project-dog-classification
+Docs: note dataset location in workspace
+
+### project-face-generation
+face generation project
+
+### project-tv-script-generation
+copy edits and matrix shape for char rnn
+
+### recurrent-neural-networks
+copy edits and matrix shape for char rnn
+
+### sentiment-analysis-network
+add alternate weight initialization strategy
+
+### sentiment-rnn
+Merge pull request #96 from Fernandohf/bugFix-RuntimeError
+
+### style-transfer
+fix typo in comment
+
+### tensorflow/intro-to-tensorflow
+Update reqs
+
+### transfer-learning
+minor copy edit
+
+### weight-initialization
+fix link
+
+### word2vec-embeddings
+SkipGram Word2Vec implementation
+
+
+
+
+# Table Of Contents
 ## Tutorials
 ### Introduction to Neural Networks
 

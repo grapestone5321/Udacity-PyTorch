@@ -101,7 +101,7 @@ https://pytorch.org/tutorials/
 
 
 
-## Udacity-deep-learning-v2-pytorch/intro-to-pytorch/
+# Udacity-deep-learning-v2-pytorch/intro-to-pytorch/
 
 : https://github.com/udacity/deep-learning-v2-pytorch/tree/master/intro-to-pytorch
 

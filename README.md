@@ -84,21 +84,6 @@ In this lesson, we'll walk through a tutorial showing how to deploy PyTorch mode
 
 -------
 
-## pytorch.org
-https://pytorch.org/
-
-## GET STARTED
-https://pytorch.org/get-started/locally/
-
-Select preferences and run the command to install PyTorch locally, or get started quickly with one of the supported cloud platforms.
-
-## WELCOME TO PYTORCH TUTORIALS
-https://pytorch.org/tutorials/
-
-
-
--------
-
 
 
 # Udacity-deep-learning-v2-pytorch/intro-to-pytorch/
@@ -116,6 +101,25 @@ This repo contains notebooks and related code for Udacity's Deep Learning with P
 - Part 6: How to save and load trained models
 - Part 7: Load image data with torchvision, also data augmentation
 - Part 8: Use transfer learning to train a state-of-the-art image classifier for dogs and cats
+
+
+
+-------
+
+## pytorch.org
+https://pytorch.org/
+
+## GET STARTED
+https://pytorch.org/get-started/locally/
+
+Select preferences and run the command to install PyTorch locally, or get started quickly with one of the supported cloud platforms.
+
+## WELCOME TO PYTORCH TUTORIALS
+https://pytorch.org/tutorials/
+
+
+
+
 
 -------
 

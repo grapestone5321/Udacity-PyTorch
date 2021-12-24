@@ -5,6 +5,7 @@ Udacity-PyTorch
 
 
 # Intro to Deep Learning with PyTorch
+https://classroom.udacity.com/courses/ud188
 
 In this course, you’ll learn the basics of deep learning, and build your own deep neural networks using PyTorch. 
 
